@@ -1,0 +1,12 @@
+# Power BI
+*.pbix.bak
+~$*
+
+# OS
+Thumbs.db
+.DS_Store
+
+# SQL Server local artefacts
+*.mdf
+*.ldf
+*.bak
